@@ -35,8 +35,6 @@ All methods and results are explained in the project report:
 │   ├── LinkPrediction_SMA.ipynb
 │   ├── Page_Rank_Analysis.ipynb
 │   └── Visualization.ipynb
-├── Visualizations/
-│   └── graph_with_menu.html, graph.html
 ├── Report.pdf
 └── README.md
 ```
